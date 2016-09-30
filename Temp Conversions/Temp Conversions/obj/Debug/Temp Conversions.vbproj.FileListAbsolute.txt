@@ -1,0 +1,11 @@
+C:\Users\nn137422\Documents\Visual Basic\Temp Conversions\Temp Conversions\bin\Debug\Temp Conversions.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Temp Conversions\Temp Conversions\bin\Debug\Temp Conversions.exe
+C:\Users\nn137422\Documents\Visual Basic\Temp Conversions\Temp Conversions\bin\Debug\Temp Conversions.pdb
+C:\Users\nn137422\Documents\Visual Basic\Temp Conversions\Temp Conversions\bin\Debug\Temp Conversions.xml
+C:\Users\nn137422\Documents\Visual Basic\Temp Conversions\Temp Conversions\obj\Debug\Temp Conversions.vbprojResolveAssemblyReference.cache
+C:\Users\nn137422\Documents\Visual Basic\Temp Conversions\Temp Conversions\obj\Debug\Temp_Conversions.Form1.resources
+C:\Users\nn137422\Documents\Visual Basic\Temp Conversions\Temp Conversions\obj\Debug\Temp_Conversions.Resources.resources
+C:\Users\nn137422\Documents\Visual Basic\Temp Conversions\Temp Conversions\obj\Debug\Temp Conversions.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Basic\Temp Conversions\Temp Conversions\obj\Debug\Temp Conversions.exe
+C:\Users\nn137422\Documents\Visual Basic\Temp Conversions\Temp Conversions\obj\Debug\Temp Conversions.xml
+C:\Users\nn137422\Documents\Visual Basic\Temp Conversions\Temp Conversions\obj\Debug\Temp Conversions.pdb
